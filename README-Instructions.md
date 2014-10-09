@@ -21,4 +21,4 @@ Space: Verticle "Hop"
 Mouse Click: Use Teleport
 "X": Exit
 "P": Pause
-"S": Unpuase
+"S": Unpause
